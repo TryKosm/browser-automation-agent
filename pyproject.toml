@@ -3,6 +3,6 @@ requires = ["setuptools>=69", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "browser-automation-agent"
+name = "browser-agent-kit"
 version = "0.1.0"
 requires-python = ">=3.10"
